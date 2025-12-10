@@ -1,0 +1,46 @@
+,,,,Row Labels,Sum of Production,,Row Labels,Sum of Production,,,Row Labels,Sum of Area
+Row Labels,,Row Labels,Sum of Fertilizer,Arecanut,190050,,Autumn     ,398311,,,Arecanut,166914
+Autumn     ,,22,75755.32,Arhar/Tur,103158,,Kharif     ,3147128,,,Arhar/Tur,428447
+Rice,,26,41208.61,Bajra,132718,,Rabi       ,337658,,,Bajra,301969
+Kharif     ,,662,78039.4,Black pepper,924,,Summer     ,210285,,,Black pepper,3825
+Arhar/Tur,,794,165500.63,Cardamom,1214,,Whole Year ,127866482,,,Cardamom,21230
+Bajra,,924,364025.25,Castor seed,22,,Winter     ,1647296,,,Castor seed,796
+Black pepper,,1214,2020459.1,Coconut ,126905000,,Grand Total,133607160,,,Coconut ,19656
+Castor seed,,1507,283511.43,Coriander,2853,,,,,,Coriander,17317
+Cotton(lint),,2853,1648058.89,Cotton(lint),794,,,Row Labels,Sum of Production,,Cotton(lint),1739
+Dry chillies,,3799,481655.37,Dry chillies,156174,,,Assam,132556429,,Dry chillies,204731
+Ginger,,4685,631643.29,Garlic,3799,,,Karnataka,1050731,,Garlic,5061
+Groundnut,,4745,344420.23,Ginger,4745,,,Grand Total,133607160,,Ginger,3619
+Jute,,5076,943515.38,Gram,1507,,,,,,Gram,2979
+Maize,,5158,961026.66,Groundnut,525562,,Row Labels,Sum of Annual_Rainfall,,,Groundnut,847666
+Mesta,,5391,998333.3,Jute,904095,,Assam,55387.8,,,Jute,94520
+Small millets,,6974,958457.07,Linseed,5158,,Karnataka,15200.4,,,Linseed,10098
+Sugarcane,,7895,434451.05,Maize,14721,,Grand Total,70588.2,,,Maize,19216
+Rabi       ,,8257,1500355.05,Mesta,29003,,,,,,Mesta,5915
+Dry chillies,,9073,1293074.79,Niger seed,5076,,,,,,Niger seed,9914
+Gram,,11728,234594.05,Onion,17943,,Row Labels,Sum of Yield,,,Onion,7832
+Linseed,,14721,1828786.72,Other  Rabi pulses,58272,,Assam,5324.162217,,,Other  Rabi pulses,108297
+Other  Rabi pulses,,17943,745371.44,Potato,671871,,Karnataka,9.898254174,,,Potato,75259
+Rapeseed &Mustard,,29003,562930.55,Rapeseed &Mustard,154772,,Grand Total,5334.060471,,,Rapeseed &Mustard,279292
+Wheat,,32618,892694.6,Rice,2255230,,,,,,Rice,2525653
+Summer     ,,56708,7024878.38,Sesamum,8257,,,,,,Sesamum,15765
+Bajra,,58272,10306625.49,Small millets,5391,,,,,,Small millets,10490
+Rice,,98473,40143657.7,Sugarcane,1287451,,,,,,Sugarcane,31318
+Whole Year ,,110054,8060708.66,Sweet potato,32618,,,,,,Sweet potato,9380
+Arecanut,,132056,28660350.33,Tapioca,11728,,,,,,Tapioca,2465
+Cardamom,,133342,8860327,Tobacco,26,,,,,,Tobacco,433
+Coconut ,,139206,17756723.43,Turmeric,6974,,,,,,Turmeric,10071
+Coriander,,154772,26580219.64,Wheat,110054,,,,,,Wheat,84698
+Dry chillies,,209623,16652275.58,Grand Total,133607160,,,,,,Grand Total,5326565
+Garlic,,398311,57802260.86,,,,,,,,,
+Niger seed,,525562,80672373.22,,,,,,,,,
+Onion,,671871,7162399.03,,,,,,,,,
+Potato,,904095,8995468.4,,,,,,,,,
+Sesamum,,1287451,2980534.06,,,,,,,,,
+Sweet potato,,1647296,165911859.6,,,,,,,,,
+Tapioca,,126905000,1870661.52,,,,,,,,,
+Tobacco,,Grand Total,506929191.1,,,,,,,,,
+Turmeric,,,,,,,,,,,,
+Winter     ,,,,,,,,,,,,
+Rice,,,,,,,,,,,,
+Grand Total,,,,,,,,,,,,
